@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenIdentification", "CitizenIdentification\CitizenIdentification.csproj", "{C55B384F-1DD0-4212-9884-5C59BCE541FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C55B384F-1DD0-4212-9884-5C59BCE541FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55B384F-1DD0-4212-9884-5C59BCE541FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55B384F-1DD0-4212-9884-5C59BCE541FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55B384F-1DD0-4212-9884-5C59BCE541FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3506227-BAE8-46C7-B1B9-9EFE175B5E41}
+	EndGlobalSection
+EndGlobal

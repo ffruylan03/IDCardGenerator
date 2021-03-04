@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvRcj1vfAaZ9Fx4VE7sArM8ubunvjjpA8RwzVYV/3XlDNMRR5NQZLvBdtzWmf4OrYi43nMR9TooR4+pPcKHsKA==",
+  "success": true,
+  "projectFilePath": "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj",
+  "expectedPackageFiles": [
+    "/Users/garyging/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/garyging/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/garyging/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64/runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512",
+    "/Users/garyging/.nuget/packages/system.drawing.common/5.0.1/system.drawing.common.5.0.1.nupkg.sha512",
+    "/Users/garyging/.nuget/packages/zxing.net/0.16.6/zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}

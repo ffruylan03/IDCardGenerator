@@ -1,0 +1,30 @@
+﻿@model CitizenIdentification.Models.CitizenIDViewModel
+
+@{
+    ViewData["Title"] = "Citizen Identification";
+}
+
+<div class="print">
+    <table class="table">
+        <tr>
+            <td>
+                <img src="@Model.QRCode" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Name)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Age)
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+@section Scripts{
+    <link rel="stylesheet" media="print" href="~/css/print.css" />
+}
