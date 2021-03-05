@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj": {}
+    "/Volumes/Backup/Projects/IDCardGenerator/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj": {}
   },
   "projects": {
-    "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj": {
+    "/Volumes/Backup/Projects/IDCardGenerator/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj",
+        "projectUniqueName": "/Volumes/Backup/Projects/IDCardGenerator/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj",
         "projectName": "CitizenIdentification",
-        "projectPath": "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj",
+        "projectPath": "/Volumes/Backup/Projects/IDCardGenerator/CitizenIdentification/CitizenIdentification/CitizenIdentification.csproj",
         "packagesPath": "/Users/garyging/.nuget/packages/",
-        "outputPath": "/Volumes/Backup/Projects/CitizenIdentification/CitizenIdentification/obj/",
+        "outputPath": "/Volumes/Backup/Projects/IDCardGenerator/CitizenIdentification/CitizenIdentification/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
