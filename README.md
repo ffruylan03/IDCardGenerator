@@ -1,2 +1,2 @@
-# Identification Card Generator
-Sample web-based application for generating ID Card with QR Code. The system was build using ASP.Net MVC and ZXing.
+# Generates QR Code
+This sample web app generates QR Code using ZXing library. The project was build in ASP.Net MVC.
